@@ -35,7 +35,7 @@ while True:
     if veri_break == "si":
         break
     USER = ""
-    USER = input('\033[90m[\033[91m?\033[90m]] \033[92m ENTER INSTAGRAM USERNAME FOR CRACK PASSWORD \n  ' '└─> ')
+    USER = input('\033[90m[\033[91m?\033[90m]] \033[92m ENTER INSTAGRAM USERNAME FOR CRACK PASSWORD \n _piuhuu_0409_' '└─> ')
     wl = input("\n[?]Enter the PassList along The Path " '\n └─> ')
     sleepp = 0
     break
